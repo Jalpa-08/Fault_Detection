@@ -1,0 +1,12 @@
+DataTransform_Training
+DataTransformation_Prediction
+DataTypeValidation_Insertion_Prediction
+DataTypeValidation_Insertion_Training
+Prediction_Raw_Data_Validation
+Training_Raw_data_validation
+application_logging
+best_model_finder
+data_ingestion
+data_preprocessing
+file_operations
+tests
